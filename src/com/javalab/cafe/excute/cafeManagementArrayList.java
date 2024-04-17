@@ -114,6 +114,8 @@ public class cafeManagementArrayList {
         }
     }
 
+
+
     //4월 17일 과제 ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
     //주문 id, 주문일자 , 상품 id, 주문처리사원 이름 ,주문수량 메소드
     public static void showOrderWithCategoryProduct(ArrayList<Order> orders, ArrayList<Employee> employees, ArrayList<Product> products) {
